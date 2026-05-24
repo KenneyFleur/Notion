@@ -1,4 +1,4 @@
-# 126-Gate Diagnostic
+# IP Graduation Pipeline
 
-Price: $500
+Price: $497
 Tier: Sovereign
