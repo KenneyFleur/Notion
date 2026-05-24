@@ -1,2 +1,2 @@
-# 126-Gate Diagnostic - Preview
-Price: $500
+# IP Graduation Pipeline - Preview
+Price: $497
