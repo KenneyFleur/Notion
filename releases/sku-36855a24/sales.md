@@ -1,4 +1,4 @@
-# SEAI Command Center
+# 126-Gate Diagnostic
 
-Price: $997
+Price: $500
 Tier: Sovereign
