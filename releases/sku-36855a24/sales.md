@@ -1,4 +1,4 @@
-# IP Graduation Pipeline
+# Compliance-as-a-Service
 
-Price: $497
-Tier: Sovereign
+Price: $297
+Tier: Professional
