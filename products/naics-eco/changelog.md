@@ -19,9 +19,10 @@ All notable changes to the NAICS Economy product bundle are documented in this f
 
 ### Deliverables
 
-- `deliverable.md`: Canonical product documentation
-- `sales.md`: Marketplace listing copy and positioning
+- `deliverable.md`: Canonical product documentation (one-time deliverable)
+- `sales.md`: Marketplace listing copy and positioning (both tiers)
 - `meta.json`: Structured metadata (price, tier, gates, version)
+- `service.md`: Service tier deployment guide (customer-managed Replit)
 - `changelog.md`: Version history and release notes
 
 ### Attribution
