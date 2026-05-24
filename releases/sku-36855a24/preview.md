@@ -1,2 +1,2 @@
-# Compliance-as-a-Service - Preview
-Price: $297
+# SEAI Identity Registration - Preview
+Price: $97
