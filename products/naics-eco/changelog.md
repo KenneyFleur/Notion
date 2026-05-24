@@ -14,8 +14,8 @@ All notable changes to the NAICS Economy product bundle are documented in this f
 - Product bundle created and published to GitHub
 - Fulfillment link activated in Notion Revenue Streams
 - Tier: Professional | Price: $197
-- Gates covered: TBD
-- Primary gate: TBD
+- Gates covered: 9, 15, 16, 19, 28, 33, 41
+- Primary gate: 9 — NAICS Classification & Sector Intelligence
 
 ### Deliverables
 
