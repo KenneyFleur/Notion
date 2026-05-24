@@ -33,18 +33,19 @@ Full diagnostic suite. Recommended for teams scaling through 3-5 gate clusters.
 
 This package includes the following intelligence assets and system access:
 
-- NAICS sector intelligence package (1 sector)
+- NAICS sector intelligence package (1 sector, static)
 - Service roles, compliance flags, insurance requirements
 - Revenue streams and operating framework per sector
 - Grant eligibility and SBA suitability mapping
-- 20-sector expansion pathway included
+- 20-sector expansion pathway (reference document)
+- No external API calls. No recurring charges.
 
 ## Activation Instructions
 
 1. Complete purchase via the Volactic LLC platform
-2. Receive attestation hash and access credentials
-3. Log into the Notion Marketplace Command Center
-4. Begin gate assessment or service intake
+2. Download your deliverable files from the fulfillment link
+3. Use the static report, template, or documentation as provided
+4. No ongoing platform access, live monitoring, or hosted services are included
 
 ## Support
 
