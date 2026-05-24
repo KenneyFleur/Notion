@@ -1,4 +1,4 @@
-# Compliance-as-a-Service
+# SEAI Identity Registration
 
-Price: $297
-Tier: Professional
+Price: $97
+Tier: Foundation
