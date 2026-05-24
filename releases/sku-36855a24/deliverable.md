@@ -1,6 +1,6 @@
-# NAICS Economy - Deliverable Package
+# SEAI Command Center - Deliverable Package
 
 SKU: SKU-36855a24
-Tier: Professional
-Price: $197
+Tier: Sovereign
+Price: $997
 Platform: VSMA
