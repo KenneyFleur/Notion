@@ -1,2 +1,2 @@
-# IP Graduation Pipeline - Preview
-Price: $497
+# Compliance-as-a-Service - Preview
+Price: $297
