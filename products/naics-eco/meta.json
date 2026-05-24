@@ -1,0 +1,18 @@
+{
+  "title": "NAICS Economy",
+  "sku": "NAICS-ECO",
+  "price": 197,
+  "tier": "Professional",
+  "platform": "VSMA",
+  "gates_covered": "",
+  "primary_gate": "",
+  "version": "1.0",
+  "created_at": "2026-05-24T14:31:06.533Z",
+  "entity": "Volactic LLC",
+  "inventor": "Kenney Edward Belliard Fleurimond",
+  "patents": [
+    "USPTO 19/414,612",
+    "USPTO 19/392,097",
+    "USPTO 73057906"
+  ]
+}
