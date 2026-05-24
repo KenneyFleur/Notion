@@ -1,2 +1,2 @@
-# SEAI Command Center - Preview
-Price: $997
+# 126-Gate Diagnostic - Preview
+Price: $500
