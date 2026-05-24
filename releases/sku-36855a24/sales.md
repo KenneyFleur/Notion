@@ -1,4 +1,4 @@
-# NAICS Economy
+# SEAI Command Center
 
-Price: $197
-Tier: Professional
+Price: $997
+Tier: Sovereign
