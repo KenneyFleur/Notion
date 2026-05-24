@@ -1,0 +1,129 @@
+{
+  "entity": "Volactic LLC",
+  "inventor": "Kenney Edward Belliard Fleurimond",
+  "platform": "VSMA Codex Platform",
+  "generated_at": "2026-05-24T16:07:03.762Z",
+  "sku_count": 6,
+  "skus": [
+    {
+      "sku": "NAICS-ECO",
+      "stream_name": "NAICS Economy",
+      "tier": "Professional",
+      "price": 197,
+      "gates_covered": "9, 15, 16, 19, 28, 33, 41",
+      "primary_gate": "9 — NAICS Classification & Sector Intelligence",
+      "version": "1.0",
+      "fulfillment_url": "https://github.com/KenneyFleur/Notion/tree/main/products/naics-eco?cb=20260524160518",
+      "files": {
+        "deliverable": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/naics-eco/deliverable.md",
+        "sales": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/naics-eco/sales.md",
+        "meta": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/naics-eco/meta.json",
+        "service": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/naics-eco/service.md",
+        "changelog": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/naics-eco/changelog.md"
+      },
+      "one_time_included": true,
+      "service_tier_available": true,
+      "service_tier_separate_license": true
+    },
+    {
+      "sku": "SEAI-CMD",
+      "stream_name": "SEAI Command Center",
+      "tier": "Sovereign",
+      "price": 997,
+      "gates_covered": "1–126 (Full Codex)",
+      "primary_gate": "1 — Governance Kernel & Command Authority",
+      "version": "1.0",
+      "fulfillment_url": "https://github.com/KenneyFleur/Notion/tree/main/products/seai-cmd?cb=20260524160528",
+      "files": {
+        "deliverable": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-cmd/deliverable.md",
+        "sales": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-cmd/sales.md",
+        "meta": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-cmd/meta.json",
+        "service": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-cmd/service.md",
+        "changelog": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-cmd/changelog.md"
+      },
+      "one_time_included": true,
+      "service_tier_available": true,
+      "service_tier_separate_license": true
+    },
+    {
+      "sku": "DIAG-126",
+      "stream_name": "126-Gate Diagnostic",
+      "tier": "Sovereign",
+      "price": 500,
+      "gates_covered": "1–126 (All Gates)",
+      "primary_gate": "1 — Governance Kernel; 2 — Entity Formation; 3 — Compliance",
+      "version": "1.0",
+      "fulfillment_url": "https://github.com/KenneyFleur/Notion/tree/main/products/diag-126?cb=20260524160546",
+      "files": {
+        "deliverable": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/diag-126/deliverable.md",
+        "sales": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/diag-126/sales.md",
+        "meta": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/diag-126/meta.json",
+        "service": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/diag-126/service.md",
+        "changelog": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/diag-126/changelog.md"
+      },
+      "one_time_included": true,
+      "service_tier_available": true,
+      "service_tier_separate_license": true
+    },
+    {
+      "sku": "IP-PIPE",
+      "stream_name": "IP Graduation Pipeline",
+      "tier": "Sovereign",
+      "price": 497,
+      "gates_covered": "10, 11, 12, 13, 14, 22, 23, 24",
+      "primary_gate": "11 — IP Protection & Patent Fortress",
+      "version": "1.0",
+      "fulfillment_url": "https://github.com/KenneyFleur/Notion/tree/main/products/ip-pipe?cb=20260524160606",
+      "files": {
+        "deliverable": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/ip-pipe/deliverable.md",
+        "sales": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/ip-pipe/sales.md",
+        "meta": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/ip-pipe/meta.json",
+        "service": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/ip-pipe/service.md",
+        "changelog": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/ip-pipe/changelog.md"
+      },
+      "one_time_included": true,
+      "service_tier_available": true,
+      "service_tier_separate_license": true
+    },
+    {
+      "sku": "COMP-SVC",
+      "stream_name": "Compliance-as-a-Service",
+      "tier": "Professional",
+      "price": 297,
+      "gates_covered": "3, 6, 7, 8, 17, 18, 20, 21, 25, 26, 27",
+      "primary_gate": "3 — Compliance & Regulatory Standards",
+      "version": "1.0",
+      "fulfillment_url": "https://github.com/KenneyFleur/Notion/tree/main/products/comp-svc?cb=20260524160626",
+      "files": {
+        "deliverable": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/comp-svc/deliverable.md",
+        "sales": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/comp-svc/sales.md",
+        "meta": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/comp-svc/meta.json",
+        "service": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/comp-svc/service.md",
+        "changelog": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/comp-svc/changelog.md"
+      },
+      "one_time_included": true,
+      "service_tier_available": true,
+      "service_tier_separate_license": true
+    },
+    {
+      "sku": "SEAI-ID",
+      "stream_name": "SEAI Identity Registration",
+      "tier": "Foundation",
+      "price": 97,
+      "gates_covered": "4, 5, 34, 35, 36, 37",
+      "primary_gate": "4 — Entity Formation & Legal Structure",
+      "version": "1.0",
+      "fulfillment_url": "https://github.com/KenneyFleur/Notion/tree/main/products/seai-id?cb=20260524160645",
+      "files": {
+        "deliverable": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-id/deliverable.md",
+        "sales": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-id/sales.md",
+        "meta": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-id/meta.json",
+        "service": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-id/service.md",
+        "changelog": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/seai-id/changelog.md"
+      },
+      "one_time_included": true,
+      "service_tier_available": true,
+      "service_tier_separate_license": true
+    }
+  ]
+}
