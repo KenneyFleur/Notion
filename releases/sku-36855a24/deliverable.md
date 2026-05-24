@@ -1,6 +1,6 @@
-# IP Graduation Pipeline - Deliverable Package
+# Compliance-as-a-Service - Deliverable Package
 
 SKU: SKU-36855a24
-Tier: Sovereign
-Price: $497
+Tier: Professional
+Price: $297
 Platform: VSMA
