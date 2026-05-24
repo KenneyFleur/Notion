@@ -1,0 +1,21 @@
+{
+  "title": "IP Graduation Pipeline",
+  "sku": "IP-PIPE",
+  "price": 497,
+  "tier": "Sovereign",
+  "platform": "Notion Marketplace",
+  "gates_covered": "10, 11, 12, 13, 14, 22, 23, 24",
+  "primary_gate": "11 — IP Protection & Patent Fortress",
+  "version": "1.0",
+  "created_at": "2026-05-24T16:06:14.945Z",
+  "one_time_deliverable": true,
+  "service_tier_available": true,
+  "service_tier_billing": "Customer-managed Replit workspace. All compute, storage, and external API costs borne by customer.",
+  "entity": "Volactic LLC",
+  "inventor": "Kenney Edward Belliard Fleurimond",
+  "patents": [
+    "USPTO 19/414,612",
+    "USPTO 19/392,097",
+    "USPTO 73057906"
+  ]
+}
