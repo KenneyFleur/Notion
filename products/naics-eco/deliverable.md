@@ -3,9 +3,9 @@ title: NAICS Economy
 sku: NAICS-ECO
 tier: Professional
 price: $197
-platform: VSMA
-gates_covered: 
-primary_gate: 
+platform: Notion Marketplace
+gates_covered: 9, 15, 16, 19, 28, 33, 41
+primary_gate: 9 — NAICS Classification & Sector Intelligence
 entity: Volactic LLC
 prepared_by: Kenney Edward Belliard Fleurimond
 version: "1.0"
@@ -21,9 +21,9 @@ classification: Internal Strategic Reference
 | **Stream Name** | NAICS Economy |
 | **Tier** | Professional |
 | **Price** | $197 |
-| **Platform** | VSMA |
-| **Gates Covered** |  |
-| **Primary Gate** |  |
+| **Platform** | Notion Marketplace |
+| **Gates Covered** | 9, 15, 16, 19, 28, 33, 41 |
+| **Primary Gate** | 9 — NAICS Classification & Sector Intelligence |
 
 ## Tier Description
 
@@ -43,7 +43,7 @@ This package includes the following intelligence assets and system access:
 
 1. Complete purchase via the Volactic LLC platform
 2. Receive attestation hash and access credentials
-3. Log into the VSMA Command Center
+3. Log into the Notion Marketplace Command Center
 4. Begin gate assessment or service intake
 
 ## Support
