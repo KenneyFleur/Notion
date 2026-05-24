@@ -1,0 +1,21 @@
+{
+  "title": "126-Gate Diagnostic",
+  "sku": "DIAG-126",
+  "price": 500,
+  "tier": "Sovereign",
+  "platform": "Notion Marketplace",
+  "gates_covered": "1–126 (All Gates)",
+  "primary_gate": "1 — Governance Kernel; 2 — Entity Formation; 3 — Compliance",
+  "version": "1.0",
+  "created_at": "2026-05-24T16:05:53.840Z",
+  "one_time_deliverable": true,
+  "service_tier_available": true,
+  "service_tier_billing": "Customer-managed Replit workspace. All compute, storage, and external API costs borne by customer.",
+  "entity": "Volactic LLC",
+  "inventor": "Kenney Edward Belliard Fleurimond",
+  "patents": [
+    "USPTO 19/414,612",
+    "USPTO 19/392,097",
+    "USPTO 73057906"
+  ]
+}
