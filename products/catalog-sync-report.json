@@ -1,0 +1,47 @@
+{
+  "entity": "Volactic LLC",
+  "generated_at": "2026-05-25T01:52:10.269Z",
+  "source_index": "https://raw.githubusercontent.com/KenneyFleur/Notion/main/products/index.json",
+  "target_notion_db": "8fe6ec5a-46fc-4aaf-9c23-53c1424dd6f8",
+  "duration_ms": 7079,
+  "summary": {
+    "created": 6,
+    "updated": 0,
+    "skipped": 0,
+    "errors": 0,
+    "total_processed": 6
+  },
+  "missing_fields": [],
+  "per_sku": [
+    {
+      "sku": "NAICS-ECO",
+      "action": "created",
+      "details": "new row"
+    },
+    {
+      "sku": "SEAI-CMD",
+      "action": "created",
+      "details": "new row"
+    },
+    {
+      "sku": "DIAG-126",
+      "action": "created",
+      "details": "new row"
+    },
+    {
+      "sku": "IP-PIPE",
+      "action": "created",
+      "details": "new row"
+    },
+    {
+      "sku": "COMP-SVC",
+      "action": "created",
+      "details": "new row"
+    },
+    {
+      "sku": "SEAI-ID",
+      "action": "created",
+      "details": "new row"
+    }
+  ]
+}
